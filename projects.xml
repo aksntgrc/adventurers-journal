@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<projects>
+    <project>
+        <title>Baking Adventures</title>
+        <description>
+            Experimenting in the kitchen, from homemade bread to pandesal. A cozy little quest in patience and the occasional flour-covered disaster.
+        </description>
+        <date>2026-01-12</date>
+    </project>
+    <project>
+        <title>IRL RPG Planner</title>
+        <description>
+            A gamified life planner built around quests and gaining real-world XP, turning everyday goals and responsibilities into an adventure.
+        </description>
+        <date>2026-10-10</date>
+    </project>
+    <project>
+        <title>Skyrim Modding</title>
+        <description>
+            Expanding the world of Skyrim through writing quests, designing interesting places, and implementation on the Creation Kit engine. Also creating followers to accompany the player on their journey.
+        </description>
+        <date>2026-09-06</date>
+    </project>
+</projects>
